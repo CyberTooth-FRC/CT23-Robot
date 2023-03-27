@@ -1,6 +1,0 @@
-Arm_Setpoint(Intake, 0, 0, 0, 0)
-Stow_Intake(Cone, 0, 0, 0, 0)
-No-op(3, 0, 0, 0, 0)
-Stow_Intake(Stow, 0, 0, 0, 0)
-No-op(2, 0, 0, 0, 0)
-Arm_Setpoint(Stow, 0, 0, 0, 0)

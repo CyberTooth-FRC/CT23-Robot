@@ -1,0 +1,4 @@
+Arm_Setpoint(Mid Cone, 0, 0, 0, 0)
+Drive_MP(2 Object Scoring, 1, 0, 0, 0)
+Turn_IMU_Abs(185, 2, 1000, 0, 0)
+No-op(1, 0, 0, 0, 0)
